@@ -1,0 +1,13 @@
+#nav_bar{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 18px 40px;  
+}
+nav a{
+    text-decoration: none;
+    text-transform:uppercase;
+    padding: 3rem;
+    font-weight: bold;
+}
